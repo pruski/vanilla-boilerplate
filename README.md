@@ -1,0 +1,1 @@
+A boilerplate repository to kick start new ES project with Webpack/Babel configured. 
